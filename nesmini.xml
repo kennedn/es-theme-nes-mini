@@ -150,7 +150,9 @@ author:			ruckage
 			<fontPath>./art/NESCyrillic_gamelist.ttf</fontPath>
 			<alignment>left</alignment>
 			<horizontalMargin>0.0083333333333333</horizontalMargin>
-			<fontSize>0.0592592592592593</fontSize>
+			<pos>0.42 0.26</pos>
+			<size>0.58 0.47</size>
+			<fontSize>0.0492592592592593</fontSize>
 		</textlist>
 		
 

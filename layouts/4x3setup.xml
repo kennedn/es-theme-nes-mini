@@ -118,18 +118,18 @@ author:			ruckage
 		</image>
 
 		<image name="player_box" extra="true">
-			<pos>0.2888888888888889 0.72962962962963</pos>
+			<pos>0.308 0.72962962962963</pos>
 			<origin>0 0</origin>
 		</image>
 		
 		<text name="players_label" extra="true">
-			<pos>0.2944444444444444 0.733333333333333</pos>
+			<pos>0.31555 0.733333333333333</pos>
 			<size>0.0555555555555556 0.0407407407407407</size>
 		</text>
 		
 		<text name="md_players">
 			<alignment>left</alignment>
-			<pos>0.3027777777777778 0.733333333333333</pos>
+			<pos>0.32666 0.733333333333333</pos>
 			<size>0.0555555555555556 0.0407407407407407</size>
 		</text>
 
